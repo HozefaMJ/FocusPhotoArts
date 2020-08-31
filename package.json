@@ -1,0 +1,14 @@
+{
+  "name": "focusphotoarts",
+  "version": "0.0.1",
+  "description": "A photography portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "Hozefa MJ",
+  "license": "MIT"
+}
