@@ -30,3 +30,7 @@ def form():
                     "hozefa24imp@gmail.com", query)
 
     return("success")
+
+
+if __name__ == '__main__':
+    app.run()
