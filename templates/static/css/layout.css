@@ -788,6 +788,7 @@ ul.slimmenu.collapsed li > ul {
   margin-left: -25px;
   padding-left: 25px;
   content: "\f10d";
+  color: rgb(206, 46, 140);
   font-family: "FontAwesome";
   text-align: center;
   font-size: 30px;
@@ -805,6 +806,7 @@ ul.slimmenu.collapsed li > ul {
   margin-top: 8px;
   margin-left: -15px;
   content: "\f10e";
+  color: rgb(206, 46, 140);
   font-family: "FontAwesome";
   text-align: center;
   font-size: 30px;
