@@ -21,7 +21,7 @@ def form():
         ". His/Her email is " + email + \
         ". His/Her message is " + message
 
-    print(query)
+    #print(query)
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
