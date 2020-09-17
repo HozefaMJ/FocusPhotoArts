@@ -24,40 +24,40 @@
 #footer .back-top,
 .icon-footer,
 .list-social1 li.icon-soc1 a {
-	color:#cfa144;
+	color:rgb(206, 46, 140);
 }
 ul.slimmenu li a:hover {
-    border-bottom:1px solid #cfa144;
+    border-bottom:1px solid rgb(206, 46, 140);
 }
 ul.slimmenu li ul li a:hover {
-    border-bottom:1px solid #cfa144;
+    border-bottom:1px solid rgb(206, 46, 140);
 }
 #bar{
-  background: #cfa144;
+  background: rgb(206, 46, 140);
 }
 #sync4 .item:hover {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 }
 #sync4 .synced .item {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 }
 #sync2 .item:hover {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 }
 #sync2 .synced .item {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 } 
 #sync6 .item:hover {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 }
 #sync6 .synced .item {
-	background:#cfa144;
-	border:1px solid #cfa144;
+	background:rgb(206, 46, 140);
+	border:1px solid rgb(206, 46, 140);
 }
 
 

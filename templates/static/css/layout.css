@@ -2770,9 +2770,11 @@ html[xmlns] .slides {
   transition: all 300ms linear;
 }
 #sync8 .item:hover {
+  color: rgb(206, 46, 140);
   background: url("../images/arrow-up.png") no-repeat top center;
 }
 #sync8 .synced .item {
+  color: rgb(206, 46, 140);
   background: url("../images/arrow-up.png") no-repeat top center;
 }
 
